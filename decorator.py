@@ -8,8 +8,6 @@ def announce(f):
     #def wrapper2():
     #    print("clean up mess")
     #return wrapper2()
-	
-	#added more comments
 
 @announce
 def hello():
